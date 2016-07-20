@@ -1,5 +1,5 @@
 Introduction
 ==========
 * Javascript
-* Git
+* Git Hub
 * Killing history using git rebase
